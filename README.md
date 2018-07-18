@@ -1,4 +1,4 @@
-Meu primeiro sistema no GIT
+Meu primeiro GIT
 
-Alterar o que quiser.
-alteração feita no master.
+alterar o que quiser
+alteração feita no Master
